@@ -1,0 +1,65 @@
+{
+    "Devices": [
+        "Desktop Chrome",
+        "Galaxy S8",
+        "iPhone 12 Mini landscape"
+    ],
+    "BupaLinkTest": [
+        {
+            "BupaServiceSite": "sitemap",
+            "ServicePageTitle": "Sitemap",
+            "LinkTitle": "Our markets",
+            "LinkName": "Our strategy",
+            "LinkName2": "Our markets",
+            "LinkName3": "Our Approach to Sustainability",
+            "LinkName4": "Stories and insights"
+        },
+        {
+            "BupaServiceSite": "privacy-policy",
+            "ServicePageTitle": "Privacy policy",
+            "LinkTitle": "Care and support for the elderly",
+            "LinkName": "Leadership",
+            "LinkName2": "Aged care",
+            "LinkName3": "Contributing to communities",
+            "LinkName4": "Media library"
+        }
+    ],
+    "BupaSiteConstants": {
+        "searchKey": "Bupa",
+        "primaryLink": "our-bupa",
+        "childLink": "Leadership",
+        "BupaServiceSite": "sitemap",
+        "ServicePageTitle": "Sitemap",
+        "LinkTitle": "Our markets",
+        "LinkName": "Our strategy",
+        "LinkName2": "Our markets",
+        "LinkName3": "Our Approach to Sustainability",
+        "LinkName4": "Stories and insights"
+    },
+    "BupaLocationTest": [
+        {
+            "countryName": "united-kingdom",
+            "countryLink": "bupa.co.uk"
+        },
+        {
+            "countryName": "australia",
+            "countryLink": "bupa.com.au"
+        },
+        {
+            "countryName": "new-zealand",
+            "countryLink": "bupa.co.nz"
+        },
+        {
+            "countryName": "mexico",
+            "countryLink": "bupasalud.com.mx"
+        },
+        {
+            "countryName": "chile",
+            "countryLink": "bupa.cl"
+        }
+    ],
+    "IndiumCareersData": {
+        "baseURL": "https://www.indiumsoftware.com/careers/"
+    },
+    "CMH": {}
+}

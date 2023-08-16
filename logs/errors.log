@@ -1,0 +1,378 @@
+[2023-07-16T21:50:41.298] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-16T21:50:51.836] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-16T21:51:00.809] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-16T21:51:10.395] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-16T21:51:17.650] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-16T21:51:49.401] [ERROR] default - 'accept cookies button' element check failed due to the following error: Error: element ("button[id='cc-cookieAgree']") still not existing after 10000ms
+[2023-07-16T21:51:49.401] [ERROR] default - click action on accept cookies button failed due to the following error: Error: 'accept cookies button' element check failed due to the following error: Error: element ("button[id='cc-cookieAgree']") still not existing after 10000ms
+[2023-07-16T21:51:50.596] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-16T21:51:57.836] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-16T21:52:06.597] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-16T21:52:16.755] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-16T21:52:27.479] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-16T21:52:47.739] [ERROR] default - 'Bupa primary link' element check failed due to the following error: Error: element ("(//ul[@id='mobi-section-Homepage-level1']//li//a[contains(@href,'our-bupa')])[1]") still not existing after 10000ms
+[2023-07-16T21:52:47.740] [ERROR] default - click action on Bupa primary link failed due to the following error: Error: 'Bupa primary link' element check failed due to the following error: Error: element ("(//ul[@id='mobi-section-Homepage-level1']//li//a[contains(@href,'our-bupa')])[1]") still not existing after 10000ms
+[2023-07-16T21:53:03.830] [ERROR] default - 'accept cookies button' element check failed due to the following error: Error: element ("button[id='cc-cookieAgree']") still not existing after 10000ms
+[2023-07-16T21:53:03.830] [ERROR] default - click action on accept cookies button failed due to the following error: Error: 'accept cookies button' element check failed due to the following error: Error: element ("button[id='cc-cookieAgree']") still not existing after 10000ms
+[2023-07-16T21:53:05.499] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-16T21:53:13.822] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-16T21:53:23.226] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-16T21:53:33.042] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-16T21:53:43.302] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-16T21:54:00.414] [ERROR] default - 'Bupa primary link' element check failed due to the following error: Error: element ("(//ul[@id='mobi-section-Homepage-level1']//li//a[contains(@href,'our-bupa')])[1]") still not existing after 10000ms
+[2023-07-16T21:54:00.414] [ERROR] default - click action on Bupa primary link failed due to the following error: Error: 'Bupa primary link' element check failed due to the following error: Error: element ("(//ul[@id='mobi-section-Homepage-level1']//li//a[contains(@href,'our-bupa')])[1]") still not existing after 10000ms
+[2023-07-16T21:54:17.992] [ERROR] default - 'accept cookies button' element check failed due to the following error: Error: element ("button[id='cc-cookieAgree']") still not existing after 10000ms
+[2023-07-16T21:54:17.992] [ERROR] default - click action on accept cookies button failed due to the following error: Error: 'accept cookies button' element check failed due to the following error: Error: element ("button[id='cc-cookieAgree']") still not existing after 10000ms
+[2023-07-16T21:54:19.054] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-16T21:54:27.697] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-16T21:54:43.139] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-16T21:54:46.600] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-16T21:54:50.026] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-16T21:55:03.921] [ERROR] default - 'Bupa primary link' element check failed due to the following error: Error: element ("(//ul[@id='mobi-section-Homepage-level1']//li//a[contains(@href,'our-bupa')])[1]") still not existing after 10000ms
+[2023-07-16T21:55:03.921] [ERROR] default - click action on Bupa primary link failed due to the following error: Error: 'Bupa primary link' element check failed due to the following error: Error: element ("(//ul[@id='mobi-section-Homepage-level1']//li//a[contains(@href,'our-bupa')])[1]") still not existing after 10000ms
+[2023-07-17T11:55:18.045] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T11:55:22.696] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T11:55:26.019] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T11:55:29.409] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T11:55:32.691] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T12:00:35.836] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T12:00:39.028] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T12:00:42.438] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T12:00:45.455] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T12:00:48.555] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T12:26:10.347] [ERROR] default - click action on accept cookies button failed due to the following error: Error: element ("button[id='cc-cookieAgree']") still not existing after 30000ms
+[2023-07-17T12:26:40.707] [ERROR] default - click action on mobile menu bar failed due to the following error: Error: element ("//a[@href="#mmenu"]") still not existing after 30000ms
+[2023-07-17T12:29:12.219] [ERROR] default - click action on mobile menu bar failed due to the following error: Error: element ("//a[@href="#mmenu"]") still not existing after 30000ms
+[2023-07-17T12:29:44.493] [ERROR] default - click action on mobile menu bar failed due to the following error: Error: element ("//a[@href="#mmenu"]") still not existing after 30000ms
+[2023-07-17T12:30:20.230] [ERROR] default - click action on mobile menu bar failed due to the following error: Error: element ("//a[@href="#mmenu"]") still not existing after 30000ms
+[2023-07-17T12:33:12.316] [ERROR] default - Closing the session failed. Exception no such window: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=83.0.4103.106)
+[2023-07-17T15:09:36.211] [ERROR] default - 'accept cookies button' element check failed due to the following error: Error: waitUntil condition failed with the following reason: write EPIPE
+[2023-07-17T15:09:36.212] [ERROR] default - click action on accept cookies button failed due to the following error: Error: 'accept cookies button' element check failed due to the following error: Error: waitUntil condition failed with the following reason: write EPIPE
+[2023-07-17T16:24:22.060] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T16:24:25.148] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T16:24:28.395] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T16:24:31.521] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T16:24:34.663] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T16:25:37.631] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T16:25:37.826] [ERROR] default - 'Bupa primary link' element check failed due to the following error: Error: element ("(//ul[@id='mobi-section-Homepage-level1']//li//a[contains(@href,'our-bupa')])[1]") still not existing after 60000ms
+[2023-07-17T16:25:37.827] [ERROR] default - click action on Bupa primary link failed due to the following error: Error: 'Bupa primary link' element check failed due to the following error: Error: element ("(//ul[@id='mobi-section-Homepage-level1']//li//a[contains(@href,'our-bupa')])[1]") still not existing after 60000ms
+[2023-07-17T16:25:40.652] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T16:25:43.703] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T16:25:46.669] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T16:25:49.743] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T16:26:50.851] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T16:26:52.950] [ERROR] default - 'Bupa primary link' element check failed due to the following error: Error: element ("(//ul[@id='mobi-section-Homepage-level1']//li//a[contains(@href,'our-bupa')])[1]") still not existing after 60000ms
+[2023-07-17T16:26:52.950] [ERROR] default - click action on Bupa primary link failed due to the following error: Error: 'Bupa primary link' element check failed due to the following error: Error: element ("(//ul[@id='mobi-section-Homepage-level1']//li//a[contains(@href,'our-bupa')])[1]") still not existing after 60000ms
+[2023-07-17T16:26:54.243] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T16:26:58.028] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T16:27:00.849] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T16:27:04.266] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T16:37:36.266] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T16:37:39.753] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T16:37:42.860] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T16:37:46.026] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T16:37:49.859] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T16:38:52.018] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T16:38:53.970] [ERROR] default - 'Bupa primary link' element check failed due to the following error: Error: element ("(//ul[@id='mobi-section-Homepage-level1']//li//a[contains(@href,'our-bupa')])[1]") still not existing after 60000ms
+[2023-07-17T16:38:53.971] [ERROR] default - click action on Bupa primary link failed due to the following error: Error: 'Bupa primary link' element check failed due to the following error: Error: element ("(//ul[@id='mobi-section-Homepage-level1']//li//a[contains(@href,'our-bupa')])[1]") still not existing after 60000ms
+[2023-07-17T16:38:54.623] [ERROR] default - browser is not reloaded due to invalid session id: A session is either terminated or not started
+[2023-07-17T16:40:09.496] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T16:40:12.697] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T16:40:15.636] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T16:40:19.341] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T16:40:22.282] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T16:41:23.244] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T16:41:25.803] [ERROR] default - 'Bupa primary link' element check failed due to the following error: Error: element ("(//ul[@id='mobi-section-Homepage-level1']//li//a[contains(@href,'our-bupa')])[1]") still not existing after 60000ms
+[2023-07-17T16:41:25.803] [ERROR] default - click action on Bupa primary link failed due to the following error: Error: 'Bupa primary link' element check failed due to the following error: Error: element ("(//ul[@id='mobi-section-Homepage-level1']//li//a[contains(@href,'our-bupa')])[1]") still not existing after 60000ms
+[2023-07-17T16:41:27.827] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T16:41:31.491] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T16:41:36.014] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T16:41:39.309] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T16:42:38.534] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T16:42:42.211] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T16:42:43.028] [ERROR] default - 'Bupa primary link' element check failed due to the following error: Error: element ("(//ul[@id='mobi-section-Homepage-level1']//li//a[contains(@href,'our-bupa')])[1]") still not existing after 60000ms
+[2023-07-17T16:42:43.028] [ERROR] default - click action on Bupa primary link failed due to the following error: Error: 'Bupa primary link' element check failed due to the following error: Error: element ("(//ul[@id='mobi-section-Homepage-level1']//li//a[contains(@href,'our-bupa')])[1]") still not existing after 60000ms
+[2023-07-17T16:42:45.579] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T16:42:48.881] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T16:42:52.097] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T16:48:32.590] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T16:48:35.604] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T16:48:38.597] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T16:48:41.561] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T16:48:44.631] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T16:49:03.792] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T16:49:07.101] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T16:49:11.137] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T16:49:14.611] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T16:49:18.416] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T16:50:17.272] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T16:50:20.604] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T16:50:23.261] [ERROR] default - 'Bupa primary link' element check failed due to the following error: Error: element ("(//ul[@id='mobi-section-Homepage-level1']//li//a[contains(@href,'our-bupa')])[1]") still not existing after 60000ms
+[2023-07-17T16:50:23.261] [ERROR] default - click action on Bupa primary link failed due to the following error: Error: 'Bupa primary link' element check failed due to the following error: Error: element ("(//ul[@id='mobi-section-Homepage-level1']//li//a[contains(@href,'our-bupa')])[1]") still not existing after 60000ms
+[2023-07-17T16:50:24.410] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T16:50:28.187] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T16:50:31.664] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T16:57:02.730] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T16:57:06.126] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T16:57:09.112] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T16:57:12.111] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T16:57:15.144] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T16:57:33.936] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T16:57:37.362] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T16:57:40.419] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T16:57:43.432] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T16:57:46.633] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T16:58:49.840] [ERROR] default - 'Bupa primary link' element check failed due to the following error: Error: element ("(//ul[@id='mobi-section-Homepage-level1']//li//a[contains(@href,'our-bupa')])[1]") still not existing after 60000ms
+[2023-07-17T16:58:49.843] [ERROR] default - click action on Bupa primary link failed due to the following error: Error: 'Bupa primary link' element check failed due to the following error: Error: element ("(//ul[@id='mobi-section-Homepage-level1']//li//a[contains(@href,'our-bupa')])[1]") still not existing after 60000ms
+[2023-07-17T16:59:03.582] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T16:59:06.751] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T16:59:09.805] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T16:59:12.951] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T16:59:16.051] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T17:00:19.551] [ERROR] default - 'Bupa primary link' element check failed due to the following error: Error: element ("(//ul[@id='mobi-section-Homepage-level1']//li//a[contains(@href,'our-bupa')])[1]") still not existing after 60000ms
+[2023-07-17T17:00:19.552] [ERROR] default - click action on Bupa primary link failed due to the following error: Error: 'Bupa primary link' element check failed due to the following error: Error: element ("(//ul[@id='mobi-section-Homepage-level1']//li//a[contains(@href,'our-bupa')])[1]") still not existing after 60000ms
+[2023-07-17T19:42:18.893] [ERROR] default - 'accept cookies button' element check failed due to the following error: Error: element ("button[id='cc-cookieAgree']") still not existing after 60000ms
+[2023-07-17T19:42:18.894] [ERROR] default - click action on accept cookies button failed due to the following error: Error: 'accept cookies button' element check failed due to the following error: Error: element ("button[id='cc-cookieAgree']") still not existing after 60000ms
+[2023-07-17T19:43:19.041] [ERROR] default - 'mobile menu bar' element check failed due to the following error: Error: element ("//a[@href="#mmenu"]") still not existing after 60000ms
+[2023-07-17T19:43:19.042] [ERROR] default - click action on mobile menu bar failed due to the following error: Error: 'mobile menu bar' element check failed due to the following error: Error: element ("//a[@href="#mmenu"]") still not existing after 60000ms
+[2023-07-17T19:45:14.803] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T19:45:17.965] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T19:45:21.229] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T19:45:24.308] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T19:45:27.134] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T19:45:47.673] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T19:45:50.712] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T19:45:53.589] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T19:45:56.393] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T19:45:59.217] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T19:48:20.391] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T19:48:23.691] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T19:48:26.918] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T19:48:30.003] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T19:48:33.139] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T19:48:51.480] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T19:48:55.471] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T19:48:58.686] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T19:49:01.995] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T19:49:05.453] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T19:49:24.095] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T19:49:27.341] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T19:49:31.243] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T19:49:34.276] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T19:49:37.468] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T19:54:32.428] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T19:54:35.688] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T19:54:39.031] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T19:54:42.379] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T19:54:45.640] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T19:55:14.933] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T19:55:18.426] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T19:55:21.743] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T19:55:25.258] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T19:55:29.294] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T19:56:34.485] [ERROR] default - value is not selected from 'bupa sub links in mobile' list due to invalid session id: A session is either terminated or not started
+[2023-07-17T19:58:06.133] [ERROR] default - 'mobile menu bar' element check failed due to the following error: invalid session id: A session is either terminated or not started
+[2023-07-17T19:58:06.140] [ERROR] default - click action on mobile menu bar failed due to the following error: Error: 'mobile menu bar' element check failed due to the following error: invalid session id: A session is either terminated or not started
+[2023-07-17T20:08:16.225] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T20:08:18.910] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T20:08:21.396] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T20:08:23.920] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T20:08:26.538] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T20:09:39.451] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T20:10:26.783] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T20:11:25.940] [ERROR] default - browser is not reloaded due to invalid session id: A session is either terminated or not started
+[2023-07-17T20:15:26.378] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T20:16:06.904] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T20:17:33.575] [ERROR] default - Element Identifier 'input[id' is not defined in findWebElement
+[2023-07-17T20:21:09.470] [ERROR] default - browser is not reloaded due to invalid session id: A session is either terminated or not started
+[2023-07-18T12:38:57.689] [ERROR] default - 'accept cookies button' element check failed due to the following error: Error: element ("button[id='cc-cookieAgree']") still not existing after 60000ms
+[2023-07-18T12:38:57.694] [ERROR] default - click action on accept cookies button failed due to the following error: Error: 'accept cookies button' element check failed due to the following error: Error: element ("button[id='cc-cookieAgree']") still not existing after 60000ms
+[2023-07-18T12:38:58.381] [ERROR] default - page title is not extracted due to unknown command: The requested resource could not be found, or a request was received using an HTTP method that is not supported by the mapped resource
+[2023-07-18T12:40:04.267] [ERROR] default - 'accept cookies button' element check failed due to the following error: Error: element ("button[id='cc-cookieAgree']") still not existing after 60000ms
+[2023-07-18T12:40:04.269] [ERROR] default - click action on accept cookies button failed due to the following error: Error: 'accept cookies button' element check failed due to the following error: Error: element ("button[id='cc-cookieAgree']") still not existing after 60000ms
+[2023-07-18T12:41:06.004] [ERROR] default - 'mobile menu bar' element check failed due to the following error: Error: element ("//a[@href="#mmenu"]") still not existing after 60000ms
+[2023-07-18T12:41:06.005] [ERROR] default - click action on mobile menu bar failed due to the following error: Error: 'mobile menu bar' element check failed due to the following error: Error: element ("//a[@href="#mmenu"]") still not existing after 60000ms
+[2023-07-18T12:42:13.172] [ERROR] default - 'accept cookies button' element check failed due to the following error: Error: element ("button[id='cc-cookieAgree']") still not existing after 60000ms
+[2023-07-18T12:42:13.173] [ERROR] default - click action on accept cookies button failed due to the following error: Error: 'accept cookies button' element check failed due to the following error: Error: element ("button[id='cc-cookieAgree']") still not existing after 60000ms
+[2023-07-18T17:57:08.749] [ERROR] default - click action on mobile search button failed due to the following error: RequestError: socket hang up
+[2023-07-18T18:45:55.120] [ERROR] default - click action on mobile menu bar failed due to the following error: element not interactable: Element <a href="#mmenu"> could not be scrolled into view
+[2023-07-18T18:46:04.117] [ERROR] default - click action on mobile menu bar failed due to the following error: element not interactable: Element <a href="#mmenu"> could not be scrolled into view
+[2023-07-18T18:46:13.075] [ERROR] default - click action on mobile menu bar failed due to the following error: element not interactable: Element <a href="#mmenu"> could not be scrolled into view
+[2023-07-18T18:46:21.648] [ERROR] default - click action on mobile menu bar failed due to the following error: element not interactable: Element <a href="#mmenu"> could not be scrolled into view
+[2023-07-18T18:52:20.572] [ERROR] default - click action on search button failed due to the following error: element not interactable: element not interactable
+  (Session info: chrome=114.0.5735.198)
+[2023-07-18T18:52:35.476] [ERROR] default - Mouse hover action on Bupa primary link failed due to the following error: TypeError: this._webElement.moveToElement is not a function
+[2023-07-18T18:52:48.113] [ERROR] default - Mouse hover action on Bupa primary link failed due to the following error: TypeError: this._webElement.moveToElement is not a function
+[2023-07-18T18:53:02.864] [ERROR] default - Mouse hover action on Bupa primary link failed due to the following error: TypeError: this._webElement.moveToElement is not a function
+[2023-07-18T18:53:19.552] [ERROR] default - Mouse hover action on Bupa primary link failed due to the following error: TypeError: this._webElement.moveToElement is not a function
+[2023-07-18T18:53:35.922] [ERROR] default - Mouse hover action on Bupa primary link failed due to the following error: TypeError: this._webElement.moveToElement is not a function
+[2023-07-18T18:53:59.266] [ERROR] default - Mouse hover action on Bupa primary link failed due to the following error: TypeError: this._webElement.moveToElement is not a function
+[2023-07-18T19:17:46.708] [ERROR] default - click action on search button failed due to the following error: element not interactable: element not interactable
+  (Session info: chrome=114.0.5735.198)
+[2023-07-18T19:17:52.225] [ERROR] default - Mouse hover action on Bupa primary link failed due to the following error: TypeError: browser.moveToElement is not a function
+[2023-07-18T19:17:57.336] [ERROR] default - Mouse hover action on Bupa primary link failed due to the following error: TypeError: browser.moveToElement is not a function
+[2023-07-18T19:18:02.537] [ERROR] default - Mouse hover action on Bupa primary link failed due to the following error: TypeError: browser.moveToElement is not a function
+[2023-07-18T19:20:30.923] [ERROR] default - click action on search button failed due to the following error: element not interactable: element not interactable
+  (Session info: chrome=114.0.5735.198)
+[2023-07-18T19:20:37.085] [ERROR] default - click action on search button failed due to the following error: element not interactable: element not interactable
+  (Session info: chrome=114.0.5735.198)
+[2023-07-18T19:20:44.650] [ERROR] default - click action on search button failed due to the following error: element not interactable: element not interactable
+  (Session info: chrome=114.0.5735.198)
+[2023-07-18T19:26:11.297] [ERROR] default - click action on search button failed due to the following error: element not interactable: element not interactable
+  (Session info: chrome=114.0.5735.198)
+[2023-07-18T19:27:20.541] [ERROR] default - click action on search button failed due to the following error: element not interactable: element not interactable
+  (Session info: chrome=114.0.5735.198)
+[2023-07-18T19:27:27.809] [ERROR] default - click action on accept cookies button failed due to the following error: RequestError: socket hang up
+[2023-07-18T19:27:27.837] [ERROR] default - 'Bupa primary link' element check failed due to the following error: RequestError: connect ECONNREFUSED 127.0.0.1:9515
+[2023-07-18T19:27:27.839] [ERROR] default - Mouse hover action on Bupa primary link failed due to the following error: Error: 'Bupa primary link' element check failed due to the following error: RequestError: connect ECONNREFUSED 127.0.0.1:9515
+[2023-07-18T19:34:35.308] [ERROR] default - click action on search button failed due to the following error: element not interactable: element not interactable
+  (Session info: chrome=114.0.5735.198)
+[2023-07-18T19:35:59.717] [ERROR] default - click action on search button failed due to the following error: element not interactable: element not interactable
+  (Session info: chrome=114.0.5735.198)
+[2023-07-18T19:41:48.461] [ERROR] default - click action on search button failed due to the following error: RequestError: write EPIPE
+[2023-07-18T19:52:10.899] [ERROR] default - click action on search button failed due to the following error: element click intercepted: Element <a class="searchButton" href="javascript:;"> is not clickable at point (1055,164) because another element <li> obscures it
+[2023-07-18T19:52:43.113] [ERROR] default - 'accept cookies button' element check failed due to the following error: unknown error: An unknown server-side error occurred while processing the command. Original error: chrome not reachable
+  (Session info: chrome=83.0.4103.106)
+[2023-07-18T19:52:43.117] [ERROR] default - click action on accept cookies button failed due to the following error: Error: 'accept cookies button' element check failed due to the following error: unknown error: An unknown server-side error occurred while processing the command. Original error: chrome not reachable
+  (Session info: chrome=83.0.4103.106)
+[2023-07-18T19:52:43.383] [ERROR] default - 'mobile menu bar' element check failed due to the following error: unknown error: An unknown server-side error occurred while processing the command. Original error: chrome not reachable
+  (Session info: chrome=83.0.4103.106)
+[2023-07-18T19:52:43.385] [ERROR] default - click action on mobile menu bar failed due to the following error: Error: 'mobile menu bar' element check failed due to the following error: unknown error: An unknown server-side error occurred while processing the command. Original error: chrome not reachable
+  (Session info: chrome=83.0.4103.106)
+[2023-07-18T19:53:12.358] [ERROR] default - Closing the session failed. Exception unknown error: An unknown server-side error occurred while processing the command. Original error: chrome not reachable
+  (Session info: chrome=83.0.4103.106)
+[2023-07-18T19:53:41.417] [ERROR] default - Closing the session failed. Exception unknown error: An unknown server-side error occurred while processing the command. Original error: chrome not reachable
+  (Session info: chrome=83.0.4103.106)
+[2023-07-21T20:39:16.463] [ERROR] default - Closing the session failed. Exception unknown command: The requested resource could not be found, or a request was received using an HTTP method that is not supported by the mapped resource
+[2023-07-21T20:39:18.120] [ERROR] default - Closing the session failed. Exception unknown command: The requested resource could not be found, or a request was received using an HTTP method that is not supported by the mapped resource
+[2023-07-21T20:49:47.047] [ERROR] default - Closing the session failed. Exception unknown command: The requested resource could not be found, or a request was received using an HTTP method that is not supported by the mapped resource
+[2023-07-21T21:06:28.128] [ERROR] default - Closing the session failed. Exception unknown command: The requested resource could not be found, or a request was received using an HTTP method that is not supported by the mapped resource
+[2023-07-21T22:05:43.741] [ERROR] default - Closing the session failed. Exception unknown command: The requested resource could not be found, or a request was received using an HTTP method that is not supported by the mapped resource
+[2023-07-21T22:05:53.295] [ERROR] default - Closing the session failed. Exception unknown command: The requested resource could not be found, or a request was received using an HTTP method that is not supported by the mapped resource
+[2023-07-24T13:17:28.257] [ERROR] default - click action on mobile menu bar failed due to the following error: element not interactable: element not interactable
+  (Session info: chrome=86.0.4240.110)
+[2023-07-24T13:18:20.609] [ERROR] default - click action on mobile menu bar failed due to the following error: element not interactable: element not interactable
+  (Session info: chrome=86.0.4240.110)
+[2023-07-24T13:19:13.592] [ERROR] default - click action on mobile menu bar failed due to the following error: element not interactable: element not interactable
+  (Session info: chrome=86.0.4240.110)
+[2023-07-24T13:20:03.311] [ERROR] default - click action on mobile menu bar failed due to the following error: element not interactable: element not interactable
+  (Session info: chrome=86.0.4240.110)
+[2023-07-24T13:59:21.191] [ERROR] default - Closing the session failed. Exception invalid session id: session timed out or not found
+[2023-07-24T14:01:39.035] [ERROR] default - click action on mobile menu bar failed due to the following error: element not interactable: element not interactable
+  (Session info: chrome=86.0.4240.110)
+[2023-07-24T14:02:30.877] [ERROR] default - click action on mobile menu bar failed due to the following error: element not interactable: element not interactable
+  (Session info: chrome=86.0.4240.110)
+[2023-07-24T14:03:17.363] [ERROR] default - click action on mobile menu bar failed due to the following error: element not interactable: element not interactable
+  (Session info: chrome=86.0.4240.110)
+[2023-07-24T14:04:08.106] [ERROR] default - click action on mobile menu bar failed due to the following error: element not interactable: element not interactable
+  (Session info: chrome=86.0.4240.110)
+[2023-07-24T14:10:31.968] [ERROR] default - click action on mobile menu bar failed due to the following error: element not interactable: element not interactable
+  (Session info: chrome=86.0.4240.110)
+[2023-07-24T14:11:24.201] [ERROR] default - click action on mobile menu bar failed due to the following error: element not interactable: element not interactable
+  (Session info: chrome=86.0.4240.110)
+[2023-07-24T14:12:21.990] [ERROR] default - click action on mobile menu bar failed due to the following error: element not interactable: element not interactable
+  (Session info: chrome=86.0.4240.110)
+[2023-07-24T14:13:20.150] [ERROR] default - click action on mobile menu bar failed due to the following error: element not interactable: element not interactable
+  (Session info: chrome=86.0.4240.110)
+[2023-07-24T14:40:27.170] [ERROR] default - click action on mobile menu bar failed due to the following error: element not interactable: element not interactable
+  (Session info: chrome=86.0.4240.110)
+[2023-07-24T14:41:16.413] [ERROR] default - click action on mobile menu bar failed due to the following error: element not interactable: element not interactable
+  (Session info: chrome=86.0.4240.110)
+[2023-07-24T14:42:05.110] [ERROR] default - click action on mobile menu bar failed due to the following error: element not interactable: element not interactable
+  (Session info: chrome=86.0.4240.110)
+[2023-07-24T14:42:57.345] [ERROR] default - click action on mobile menu bar failed due to the following error: element not interactable: element not interactable
+  (Session info: chrome=86.0.4240.110)
+[2023-07-24T14:45:33.533] [ERROR] default - click action on mobile menu bar failed due to the following error: element not interactable: element not interactable
+  (Session info: chrome=86.0.4240.110)
+[2023-07-24T14:46:25.751] [ERROR] default - click action on mobile menu bar failed due to the following error: element not interactable: element not interactable
+  (Session info: chrome=86.0.4240.110)
+[2023-07-24T14:47:18.723] [ERROR] default - click action on mobile menu bar failed due to the following error: element not interactable: element not interactable
+  (Session info: chrome=86.0.4240.110)
+[2023-07-24T14:48:18.855] [ERROR] default - click action on mobile menu bar failed due to the following error: element not interactable: element not interactable
+  (Session info: chrome=86.0.4240.110)
+[2023-07-24T14:50:10.071] [ERROR] default - click action on mobile menu bar failed due to the following error: element not interactable: element not interactable
+  (Session info: chrome=86.0.4240.110)
+[2023-07-24T14:50:59.890] [ERROR] default - click action on mobile menu bar failed due to the following error: element not interactable: element not interactable
+  (Session info: chrome=86.0.4240.110)
+[2023-07-24T14:51:44.023] [ERROR] default - click action on mobile menu bar failed due to the following error: element not interactable: element not interactable
+  (Session info: chrome=86.0.4240.110)
+[2023-07-24T14:52:39.734] [ERROR] default - click action on mobile menu bar failed due to the following error: element not interactable: element not interactable
+  (Session info: chrome=86.0.4240.110)
+[2023-08-02T21:47:48.381] [ERROR] default - click action on mobile menu bar failed due to the following error: element not interactable: element not interactable
+  (Session info: chrome=86.0.4240.110)
+[2023-08-02T21:48:42.872] [ERROR] default - click action on mobile menu bar failed due to the following error: element not interactable: element not interactable
+  (Session info: chrome=86.0.4240.110)
+[2023-08-02T21:49:33.565] [ERROR] default - click action on mobile menu bar failed due to the following error: element not interactable: element not interactable
+  (Session info: chrome=86.0.4240.110)
+[2023-08-02T21:50:28.527] [ERROR] default - click action on mobile menu bar failed due to the following error: element not interactable: element not interactable
+  (Session info: chrome=86.0.4240.110)
+[2023-08-02T22:07:36.513] [ERROR] default - click action on mobile menu bar failed due to the following error: element not interactable: element not interactable
+  (Session info: chrome=86.0.4240.110)
+[2023-08-02T22:08:24.033] [ERROR] default - click action on mobile menu bar failed due to the following error: element not interactable: element not interactable
+  (Session info: chrome=86.0.4240.110)
+[2023-08-02T22:09:16.449] [ERROR] default - click action on mobile menu bar failed due to the following error: element not interactable: element not interactable
+  (Session info: chrome=86.0.4240.110)
+[2023-08-02T22:10:04.463] [ERROR] default - click action on mobile menu bar failed due to the following error: element not interactable: element not interactable
+  (Session info: chrome=86.0.4240.110)
+[2023-08-02T22:13:05.234] [ERROR] default - Closing the session failed. Exception invalid session id: session timed out or not found
+[2023-08-02T22:21:27.765] [ERROR] default - 'accept cookies button' element check failed due to the following error: invalid session id: session timed out or not found
+[2023-08-02T22:21:27.781] [ERROR] default - click action on accept cookies button failed due to the following error: Error: 'accept cookies button' element check failed due to the following error: invalid session id: session timed out or not found
+[2023-08-02T22:21:27.881] [ERROR] default - 'mobile menu bar' element check failed due to the following error: invalid session id: session timed out or not found
+[2023-08-02T22:21:27.886] [ERROR] default - click action on mobile menu bar failed due to the following error: Error: 'mobile menu bar' element check failed due to the following error: invalid session id: session timed out or not found
+[2023-08-02T22:21:28.003] [ERROR] default - Closing the session failed. Exception invalid session id: session timed out or not found
+[2023-08-02T22:21:28.141] [ERROR] default - Closing the session failed. Exception invalid session id: session timed out or not found
+[2023-08-02T22:50:29.488] [ERROR] default - Closing the session failed. Exception unknown command: The requested resource could not be found, or a request was received using an HTTP method that is not supported by the mapped resource
+[2023-08-02T23:04:45.096] [ERROR] default - Closing the session failed. Exception unknown command: The requested resource could not be found, or a request was received using an HTTP method that is not supported by the mapped resource
+[2023-08-03T12:20:32.638] [ERROR] default - click action on search button failed due to the following error: element not interactable: element not interactable
+  (Session info: chrome=114.0.5735.198)
+[2023-08-03T16:18:50.025] [ERROR] default - 'accept cookies button' element check failed due to the following error: unknown error: An unknown server-side error occurred while processing the command. Original error: chrome not reachable
+  (Session info: chrome=83.0.4103.106)
+[2023-08-03T16:18:50.032] [ERROR] default - click action on accept cookies button failed due to the following error: Error: 'accept cookies button' element check failed due to the following error: unknown error: An unknown server-side error occurred while processing the command. Original error: chrome not reachable
+  (Session info: chrome=83.0.4103.106)
+[2023-08-03T16:18:50.286] [ERROR] default - 'mobile menu bar' element check failed due to the following error: unknown error: An unknown server-side error occurred while processing the command. Original error: chrome not reachable
+  (Session info: chrome=83.0.4103.106)
+[2023-08-03T16:18:50.287] [ERROR] default - click action on mobile menu bar failed due to the following error: Error: 'mobile menu bar' element check failed due to the following error: unknown error: An unknown server-side error occurred while processing the command. Original error: chrome not reachable
+  (Session info: chrome=83.0.4103.106)
+[2023-08-03T16:19:06.625] [ERROR] default - Closing the session failed. Exception invalid session id: invalid session id
+[2023-08-03T16:19:13.302] [ERROR] default - Closing the session failed. Exception Error: Failed to create session.
+socket hang up
+[2023-08-03T16:20:29.922] [ERROR] default - 'accept cookies button' element check failed due to the following error: unknown error: An unknown server-side error occurred while processing the command. Original error: chrome not reachable
+  (Session info: chrome=83.0.4103.106)
+[2023-08-03T16:20:29.928] [ERROR] default - click action on accept cookies button failed due to the following error: Error: 'accept cookies button' element check failed due to the following error: unknown error: An unknown server-side error occurred while processing the command. Original error: chrome not reachable
+  (Session info: chrome=83.0.4103.106)
+[2023-08-03T16:20:30.071] [ERROR] default - 'mobile menu bar' element check failed due to the following error: unknown error: An unknown server-side error occurred while processing the command. Original error: chrome not reachable
+  (Session info: chrome=83.0.4103.106)
+[2023-08-03T16:20:30.076] [ERROR] default - click action on mobile menu bar failed due to the following error: Error: 'mobile menu bar' element check failed due to the following error: unknown error: An unknown server-side error occurred while processing the command. Original error: chrome not reachable
+  (Session info: chrome=83.0.4103.106)
+[2023-08-03T16:21:05.063] [ERROR] default - Closing the session failed. Exception Error: Failed to create session.
+The session identified by d36c9663-2926-4ea8-865c-87ce85a524d0 is not known
+[2023-08-03T16:21:05.190] [ERROR] default - Closing the session failed. Exception invalid session id: A session is either terminated or not started
+[2023-08-03T16:22:21.191] [ERROR] default - 'accept cookies button' element check failed due to the following error: unknown error: An unknown server-side error occurred while processing the command. Original error: chrome not reachable
+  (Session info: chrome=83.0.4103.106)
+[2023-08-03T16:22:21.193] [ERROR] default - click action on accept cookies button failed due to the following error: Error: 'accept cookies button' element check failed due to the following error: unknown error: An unknown server-side error occurred while processing the command. Original error: chrome not reachable
+  (Session info: chrome=83.0.4103.106)
+[2023-08-03T16:22:21.365] [ERROR] default - 'mobile menu bar' element check failed due to the following error: unknown error: An unknown server-side error occurred while processing the command. Original error: chrome not reachable
+  (Session info: chrome=83.0.4103.106)
+[2023-08-03T16:22:21.365] [ERROR] default - click action on mobile menu bar failed due to the following error: Error: 'mobile menu bar' element check failed due to the following error: unknown error: An unknown server-side error occurred while processing the command. Original error: chrome not reachable
+  (Session info: chrome=83.0.4103.106)
+[2023-08-03T16:22:29.007] [ERROR] default - Closing the session failed. Exception invalid session id: invalid session id
+[2023-08-03T16:32:44.803] [ERROR] default - 'accept cookies button' element check failed due to the following error: unknown error: An unknown server-side error occurred while processing the command. Original error: chrome not reachable
+  (Session info: chrome=83.0.4103.106)
+[2023-08-03T16:32:44.804] [ERROR] default - click action on accept cookies button failed due to the following error: Error: 'accept cookies button' element check failed due to the following error: unknown error: An unknown server-side error occurred while processing the command. Original error: chrome not reachable
+  (Session info: chrome=83.0.4103.106)
+[2023-08-03T16:32:44.927] [ERROR] default - 'mobile menu bar' element check failed due to the following error: unknown error: An unknown server-side error occurred while processing the command. Original error: chrome not reachable
+  (Session info: chrome=83.0.4103.106)
+[2023-08-03T16:32:44.939] [ERROR] default - click action on mobile menu bar failed due to the following error: Error: 'mobile menu bar' element check failed due to the following error: unknown error: An unknown server-side error occurred while processing the command. Original error: chrome not reachable
+  (Session info: chrome=83.0.4103.106)
+[2023-08-03T16:32:52.583] [ERROR] default - Closing the session failed. Exception invalid session id: invalid session id
+[2023-08-03T17:03:06.075] [ERROR] default - Closing the session failed. Exception Error: Failed to create session.
+socket hang up
+[2023-08-03T18:05:46.054] [ERROR] default - 'accept cookies button' element check failed due to the following error: Error: element ("button[id='cc-cookieAgree']") still not existing after 60000ms
+[2023-08-03T18:05:46.055] [ERROR] default - click action on accept cookies button failed due to the following error: Error: 'accept cookies button' element check failed due to the following error: Error: element ("button[id='cc-cookieAgree']") still not existing after 60000ms
+[2023-08-03T18:06:48.125] [ERROR] default - 'mobile menu bar' element check failed due to the following error: Error: element ("//a[@href="#mmenu"]") still not existing after 60000ms
+[2023-08-03T18:06:48.126] [ERROR] default - click action on mobile menu bar failed due to the following error: Error: 'mobile menu bar' element check failed due to the following error: Error: element ("//a[@href="#mmenu"]") still not existing after 60000ms
+[2023-08-04T10:26:37.392] [ERROR] default - click action on mobile menu bar failed due to the following error: element click intercepted: element click intercepted: Element <a href="#mmenu">...</a> is not clickable at point (372, 48). Other element would receive the click: <a class="websites1" href="javascript:void(0)">...</a>
+  (Session info: chrome=83.0.4103.106)
+[2023-08-16T14:28:35.050] [ERROR] default - Get text action on 'link header' is failed due to the following error: Error: element ("div[class=banner-landing-page-title] > h1") still not existing after 30000ms
